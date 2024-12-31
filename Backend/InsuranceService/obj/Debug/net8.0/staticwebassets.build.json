@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "LZ9tqQ+WeoDBkrKiomvwQ16/n3IJKEQvLAB9v5LoUU8=",
+  "Source": "InsuranceService",
+  "BasePath": "_content/InsuranceService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Shyam Mashru\\Projects Main\\AIChatbot\\Backend\\Authentication\\UserService.csproj",
+      "Version": 2,
+      "Source": "UserService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

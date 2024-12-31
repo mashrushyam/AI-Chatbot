@@ -1,0 +1,7 @@
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.csproj.AssemblyReference.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.AssemblyInfoInputs.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.AssemblyInfo.cs
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.csproj.CoreCompileInputs.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.MvcApplicationPartsAssemblyInfo.cs
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\AppointmentService\obj\Debug\net8.0\Appointment.MvcApplicationPartsAssemblyInfo.cache

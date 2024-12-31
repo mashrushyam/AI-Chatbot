@@ -1,0 +1,7 @@
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.csproj.AssemblyReference.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
+E:\Shyam Mashru\Projects Main\AIChatbot\Backend\Authentication\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cache

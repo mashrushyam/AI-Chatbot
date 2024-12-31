@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Authentication\\UserService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentService\\PaymentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InsuranceService\\InsuranceService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AppointmentService\\AppointmentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PrescriptionService\\PrescriptionService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatbotService\\ChatbotService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
